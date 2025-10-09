@@ -259,15 +259,12 @@ const myDay = {
   evening: "🌙 Learning New Tech",
   night: "💡 Planning Tomorrow's Magic"
 };
-
 </div><div align="center">
 https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 </div><div align="center"> 🌟 "Turning coffee into code, ideas into interfaces, and problems into elegant solutions — one colorful commit at a time!" 🌟
-<!-- SNAKE ANIMATION WILL GO HERE AFTER WORKFLOW SUCCESS -->
-https://github-readme-activity-graph.vercel.app/graph?username=adelana107&theme=radical&area=true
-
-Snake animation loading... 🐍
+📈 Live Coding Activity
+https://activity-graph.herokuapp.com/graph?username=adelana107&theme=react-dark&area=true&hide_border=true&custom_title=My%2520Coding%2520Activity
 
 </div><div align="center">
 https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
