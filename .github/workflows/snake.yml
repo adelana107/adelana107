@@ -1,21 +1,23 @@
-name: Generate Snake
+name: Snake Animation
 
-# ONLY runs when you manually click - NO auto-run!
 on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: adelana107
-          outputs: |
-            dist/github-snake.svg
-      - uses: peaceiris/actions-gh-pages@v3
+          svg_out_path: snake.svg
+          
+      - name: Upload Snake
+        uses: actions/upload-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+          name: snake-animation
+          path: snake.svg
