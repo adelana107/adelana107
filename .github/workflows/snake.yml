@@ -1,23 +1,10 @@
-name: Snake Animation
-
-on:
-  workflow_dispatch:
-
+name: Simple Snake
+on: workflow_dispatch
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: adelana107
-          svg_out_path: snake.svg
-          
-      - name: Upload Snake
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake-animation
-          path: snake.svg
+      - uses: actions/checkout@v3
+      - uses: jasonlong/isometric-contributions@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
