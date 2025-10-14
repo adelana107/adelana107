@@ -27,7 +27,7 @@
 
 <br/>
 
-## 🎨 Tech Stack & Superpowers
+## 🎨 Tech Stack & Superpowers.
 
 <div align="center">
 
