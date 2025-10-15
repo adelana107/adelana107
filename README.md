@@ -58,7 +58,6 @@
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-
 </div>
 
 <br/>
@@ -129,8 +128,6 @@
       <p>⚡ CI/CD</p>
       <p>🚀 Deployment</p>
       <p>🤖 n8n Automation</p>
-      <p>🐧 Linux Systems</p>
-      <p>🔒 Snyk Security</p>
     </td>
   </tr>
 </table>
@@ -151,7 +148,6 @@
       <p>🎯 React Dashboard Systems</p>
       <p>🔐 Secure Auth Systems</p>
       <p>🤖 Automation Tools</p>
-      <p>🔒 Security Scanning</p>
     </td>
     <td width="50%" align="center">
       <h3>🌱 Learning Next</h3>
@@ -159,7 +155,6 @@
       <p>☁️ AWS Advanced Services</p>
       <p>🔧 Microservices Architecture</p>
       <p>🎨 Three.js & WebGL</p>
-      <p>🔐 Advanced Security</p>
     </td>
   </tr>
 </table>
@@ -237,7 +232,7 @@
       <b>🚀</b><br/>Fast Learner
     </td>
     <td align="center">
-      <b>🔒</b><br/>Security Focused
+      <b>🔥</b><br/>Problem Solver
     </td>
   </tr>
 </table>
@@ -265,32 +260,14 @@ const myDay = {
   evening: "🌙 Learning New Tech",
   night: "💡 Planning Tomorrow's Magic"
 };
-```
+</div><div align="center">
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
-</div>
+</div><div align="center"> 🌟 "Turning coffee into code, ideas into interfaces, and problems into elegant solutions — one colorful commit at a time!" 🌟
+📈 Live Coding Activity
+https://activity-graph.herokuapp.com/graph?username=adelana107&theme=react-dark&area=true&hide_border=true&custom_title=My%2520Coding%2520Activity
 
-<div align="center">
-  
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+</div><div align="center">
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
-</div>
-
-<div align="center">
-
-🌟 "Turning coffee into code, ideas into interfaces, and problems into elegant solutions — one colorful commit at a time!" 🌟
-
-</div>
-
-<div align="center">
-
-## 📈 Live Coding Activity
-
-![Coding Activity](https://activity-graph.herokuapp.com/graph?username=adelana107&theme=react-dark&area=true&hide_border=true&custom_title=My%2520Coding%2520Activity)
-
-</div>
-
-<div align="center">
-  
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
+</div> ```
