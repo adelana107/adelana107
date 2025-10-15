@@ -1,29 +1,29 @@
-name: Update GitHub Profile Stats
+name: Refresh Profile README
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # every 6 hours
-  workflow_dispatch:       # allows manual trigger
+    - cron: "0 */6 * * *" # Every 6 hours
+  workflow_dispatch: # Manual trigger
   push:
     branches:
       - main
 
 jobs:
-  update-readme:
+  refresh-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo content
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update README timestamp
+        run: |
+          echo "Last updated: $(date)" > last-updated.txt
 
-      - name: Commit updated README
+      - name: Commit and push if changes
         run: |
           git config --global user.name "adelana107"
           git config --global user.email "Adelana787898@gmail.com"
-          git add README.md
-          git commit -m "Auto update README"
+          git add .
+          git commit -m "⏰ Auto-update README" || echo "No changes to commit"
           git push
