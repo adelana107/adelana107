@@ -1,6 +1,4 @@
-You're absolutely right! Let me create a stunning, professional README with existing GitHub elements and proper design:
 
-```markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adelana+Oluwafunmibi!;" />
 </h1>
@@ -359,4 +357,4 @@ const myDay = {
 ## 🌟 **"Turning coffee into code, ideas into interfaces, and problems into elegant solutions — one colorful commit at a time!"** 🌟
 
 </div>
-```
+
