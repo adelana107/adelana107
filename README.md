@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adelana+Oluwafunmibi!;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adelana+Oluwafunmibi!;" />
 </h1>
 
 <div align="center">
@@ -17,40 +17,32 @@
 
 <h2 align="center">⚡ Full Stack Developer • Python & Django Specialist • React Artist ⚡</h2>
 
-<br/>
+---
 
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=adelana107&theme=radical&border_radius=10)
-
-</div>
-
-<br/>
-
-## 🎨 Tech Stack & Superpowers.
+## 🎨 Tech Stack & Superpowers
 
 <div align="center">
 
-### **🌈 Backend Magic**
+### 🌈 Backend Magic
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django%20REST-FF1700?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-FF1700?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### **🎪 Frontend Circus**
+### 🎪 Frontend Circus
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### **🎯 Database Dynamite**
+### 🎯 Database Dynamite
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **🚀 DevOps & Automation Rockets**
+### 🚀 DevOps & Automation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -59,15 +51,7 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-  
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
-
-<br/>
+---
 
 ## 📊 GitHub Analytics & Magic Metrics
 
@@ -90,15 +74,7 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-  
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
-
-<br/>
+---
 
 ## 🎭 What I Bring to the Party
 
@@ -133,7 +109,7 @@
 
 </div>
 
-<br/>
+---
 
 ## 🎯 Current Projects & Adventures
 
@@ -160,17 +136,9 @@
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-  
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies & Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -178,17 +146,9 @@
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-  
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
-
-<br/>
-
-## 💫 Let's Create Magic Together!
+## 💫 Let's Connect & Create Magic
 
 <div align="center">
 
@@ -199,58 +159,25 @@
 
 </div>
 
-<br/>
+---
 
 ## 🎪 Fun Stats & Random Facts
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <b>10,000+</b><br/>🚀 Lines of Code
-    </td>
-    <td align="center">
-      <b>50+</b><br/>🎯 APIs Built
-    </td>
-    <td align="center">
-      <b>25+</b><br/>⚡ Technologies
-    </td>
-    <td align="center">
-      <b>∞</b><br/>☕ Coffee Cups
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>100%</b><br/>🎨 Creative
-    </td>
-    <td align="center">
-      <b>24/7</b><br/>💻 Code Mode
-    </td>
-    <td align="center">
-      <b>🚀</b><br/>Fast Learner
-    </td>
-    <td align="center">
-      <b>🔥</b><br/>Problem Solver
-    </td>
-  </tr>
-</table>
+| 💻 | 🎯 | ⚡ | ☕ |
+|:--:|:--:|:--:|:--:|
+| **10,000+**<br/>Lines of Code | **50+**<br/>APIs Built | **25+**<br/>Technologies | **∞**<br/>Coffee Cups |
+
+| 🎨 | 🕐 | 🚀 | 🔥 |
+|:--:|:--:|:--:|:--:|
+| **100%** Creative | **24/7** Code Mode | Fast Learner | Problem Solver |
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-  
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
-
-<br/>
-
-## 🎊 Daily Coding Rhythm
-
-<div align="center">
+## 🕒 Daily Coding Rhythm
 
 ```javascript
 const myDay = {
@@ -259,14 +186,8 @@ const myDay = {
   evening: "🌙 Learning New Tech",
   night: "💡 Planning Tomorrow's Magic"
 };
-</div><div align="center">
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+<div align="center">
+🌟 "Turning coffee into code, ideas into interfaces, and problems into elegant solutions — one colorful commit at a time!" 🌟
 
-</div><div align="center"> 🌟 "Turning coffee into code, ideas into interfaces, and problems into elegant solutions — one colorful commit at a time!" 🌟
-📈 Live Coding Activity
-https://activity-graph.herokuapp.com/graph?username=adelana107&theme=react-dark&area=true&hide_border=true&custom_title=My%2520Coding%2520Activity
 
-</div><div align="center">
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
-
-</div> ```
+</div>
