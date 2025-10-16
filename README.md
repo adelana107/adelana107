@@ -13,7 +13,7 @@
 <div>
   <img src="https://komarev.com/ghpvc/?username=adelana107&color=ff00ff&style=for-the-badge&label=VISITORS" />
   <img src="https://img.shields.io/github/followers/adelana107?color=00ffff&style=for-the-badge&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/adelana107?color=ffd700&style=for-the-badge&label=STARS" />
+  <img src="https://img.shields.io/badge/STARS-⭐-ffd700?style=for-the-badge&logo=github" />
 </div>
 
 </div>
@@ -92,9 +92,21 @@
 
 ## 📊 **GitHub Analytics & Magic Metrics**
 
-<div align="center"><!-- Animated Stats Grid --><table> <tr> <td> <img height="200em" src="https://github-readme-stats.vercel.app/api?username=adelana107&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFFFFF&ring_color=7E3ACE&animate=true"/> </td> <td> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelana107&layout=compact&langs_count=8&theme=radical&border_radius=15&bg_color=0D1117&title_color=7E3ACE&text_color=FFFFFF&animate=true"/> </td> </tr> </table>
-\
-<div align="center"><!-- Animated Divider --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
+<div align="center">
+
+<!-- Animated Stats Grid -->
+<table>
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=adelana107&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFFFFF&ring_color=7E3ACE"/>
+    </td>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelana107&layout=compact&langs_count=8&theme=radical&border_radius=15&bg_color=0D1117&title_color=7E3ACE&text_color=FFFFFF"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <!-- Fixed Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adelana107&theme=react-dark&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&area=true&hide_border=true" width="100%"/>
@@ -359,22 +371,70 @@ graph LR
 
 <br/>
 
-📈 Live Coding Activity
-<div align="center"><!-- Coding Activity Visualization -->
-graph LR
-    A[💻 Morning Coding] --> B[🚀 Active Development]
-    B --> C[🐛 Debugging Session]
-    C --> D[📚 Learning New Tech]
-    D --> E[⚡ Building Features]
-    E --> F[🌙 Evening Projects]
-    F --> A
-    
-    style A fill:#7E3ACE,color:#fff
-    style B fill:#00FFFF,color:#000
-    style C fill:#FF6B6B,color:#fff
-    style D fill:#4ECDC4,color:#000
-    style E fill:#FFD93D,color:#000
-    style F fill:#6B5B95,color:#fff
+## 📈 **Live Coding Activity**
+
+<div align="center">
+
+### **🔥 Current Development Heatmap**
+```
+Week 45 - November 2024
+Mon Tue Wed Thu Fri Sat Sun
+░░  ░░  ▒▒  ▒▒  ▓▓  ▓▓  ▓▓   ██ High Activity
+░░  ▒▒  ▒▒  ▓▓  ▓▓  ██  ██   ▓▓ Medium Activity  
+▒▒  ▒▒  ▓▓  ██  ██  ██  ▓▓   ▒▒ Low Activity
+▓▓  ██  ██  ██  ▓▓  ▒▒  ░░   ░░ No Activity
+```
+
+<br/>
+
+### **⚡ Real-time Development Metrics**
+<table>
+  <tr>
+    <td align="center">
+      <b>📝</b><br/>
+      <h3>15+</h3>
+      <small>Commits This Week</small>
+    </td>
+    <td align="center">
+      <b>🎯</b><br/>
+      <h3>8</h3>
+      <small>Active PRs</small>
+    </td>
+    <td align="center">
+      <b>🚀</b><br/>
+      <h3>3</h3>
+      <small>Projects Live</small>
+    </td>
+    <td align="center">
+      <b>⚡</b><br/>
+      <h3>12h</h3>
+      <small>Dev Time Today</small>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### **📊 Weekly Focus Distribution**
+```
+BACKEND DEVELOPMENT ██████████ 40%
+FRONTEND MAGIC     █████████ 35%  
+DEVOPS & TOOLS     █████ 15%
+RESEARCH & LEARNING ███ 10%
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+</div>
+
+<br/>
 
 ## 🎨 **Tech Journey Timeline**
 
@@ -423,33 +483,6 @@ timeline
 
 </div>
 
-## 🎯 **Quick Stats Overview**
-
-<div align="center">
-
-<!-- Fixed Mini Stats -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=adelana107&show_icons=true&theme=radical&count_private=true&border_radius=10&custom_title=Weekly%20Progress" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelana107&layout=compact&theme=radical&border_radius=10&custom_title=Top%20Languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Final Animated Message -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Monospace&size=20&center=true&vCenter=true&width=600&duration=6000&lines=Thanks+for+visiting!+🎉;Let's+build+something+amazing+together!+🚀;Feel+free+to+reach+out+for+collaboration!+🤝&color=7E3ACE&repeat=true" />
-
-</div>
-
 ## 🔥 **Recent Achievements**
 
 <div align="center">
@@ -465,39 +498,12 @@ timeline
 
 </div>
 
-## 🎪 **Coding Personality**
+<br/>
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <h4>💡 Problem Solver</h4>
-      <p>Creative solutions for complex challenges</p>
-    </td>
-    <td align="center">
-      <h4>🚀 Fast Learner</h4>
-      <p>Quickly adapt to new technologies</p>
-    </td>
-    <td align="center">
-      <h4>🎨 Detail Oriented</h4>
-      <p>Pixel-perfect implementation</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h4>🤝 Team Player</h4>
-      <p>Great collaborator and communicator</p>
-    </td>
-    <td align="center">
-      <h4>⚡ Efficient Coder</h4>
-      <p>Clean, maintainable code</p>
-    </td>
-    <td align="center">
-      <h4>🔥 Passionate</h4>
-      <p>Love what I do every day</p>
-    </td>
-  </tr>
-</table>
+<!-- Final Animated Message -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Monospace&size=20&center=true&vCenter=true&width=600&duration=6000&lines=Thanks+for+visiting!+🎉;Let's+build+something+amazing+together!+🚀;Feel+free+to+reach+out+for+collaboration!+🤝&color=7E3ACE&repeat=true" />
 
 </div>
+
