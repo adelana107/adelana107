@@ -174,20 +174,13 @@
 
 <br/>
 
-### **⭐ Trophy Progress Overview**
 <div align="center">
-
-```mermaid
-pie title Trophy Distribution
-    "Gold Trophies" : 25
-    "Silver Trophies" : 35
-    "Bronze Trophies" : 40
-    "Special Trophies" : 15
-```
-
+ 
+ ## 🏆 GitHub Trophies
+ 
+ ![trophy](https://github-profile-trophy.vercel.app/?username=adelana107&theme=radical&no-frame=true&row=1&column=7)
+ 
 </div>
-
-<br/>
 
 ### **🏅 Additional Achievements & Milestones**
 
