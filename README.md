@@ -5,9 +5,7 @@
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adelana+Oluwafunmibi!;Full+Stack+Developer;Python+%26+Django+Expert;React+Artist;UI/UX+Enthusiast&color=7E3ACE&repeat=true" />
 
-</div>
-
-<div align="center">
+<br/>
 
 <!-- Fixed Badges -->
 <div>
@@ -25,18 +23,55 @@
 
 </div>
 
+## 🎯 **About Me**
+
 <h2 align="center">⚡ Full Stack Developer • Python & Django Specialist • React Artist ⚡</h2>
+
+<p align="center">
+  Passionate full-stack developer with expertise in building scalable web applications. 
+  I love turning complex problems into simple, beautiful, and intuitive solutions. 
+  When I'm not coding, you'll find me exploring new technologies, contributing to open source, 
+  or enjoying a good cup of coffee while brainstorming my next project.
+</p>
 
 <br/>
 
-<!-- Animated Stats -->
+## 📊 **GitHub Analytics**
+
 <div align="center">
 
+<!-- Animated Stats -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=adelana107&theme=radical&border_radius=15&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&ring=7E3ACE)
+
+<br/>
+
+<!-- Stats Grid -->
+<table> 
+  <tr> 
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=adelana107&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFFFFF&ring_color=7E3ACE&animate=true"/> 
+    </td> 
+    <td> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelana107&layout=compact&langs_count=8&theme=radical&border_radius=15&bg_color=0D1117&title_color=7E3ACE&text_color=FFFFFF&animate=true"/> 
+    </td> 
+  </tr> 
+</table>
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adelana107&theme=react-dark&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 <br/>
+
+<div align="center">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+</div>
 
 ## 🎨 **Tech Stack & Superpowers**
 
@@ -88,114 +123,6 @@
 
 </div>
 
-<br/>
-
-📊 GitHub Analytics & Magic Metrics
-<div align="center"><!-- Animated Stats Grid --><table> <tr> <td> <img height="200em" src="https://github-readme-stats.vercel.app/api?username=adelana107&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFFFFF&ring_color=7E3ACE&animate=true"/> </td> <td> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelana107&layout=compact&langs_count=8&theme=radical&border_radius=15&bg_color=0D1117&title_color=7E3ACE&text_color=FFFFFF&animate=true"/> </td> </tr> </table>
-
-<div align="center"><!-- Animated Divider --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
-
-<!-- Fixed Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adelana107&theme=react-dark&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-</div>
-
-<br/>
-
-## 🎭 **What I Bring to the Party**
-
-<div align="center">
-
-<!-- Animated Skills Grid -->
-<table>
-  <tr>
-    <td width="25%" align="center">
-      <h3>🎪 Backend Circus</h3>
-      <p>🔄 RESTful APIs</p>
-      <p>🗄️ Database Design</p>
-      <p>🔐 Authentication</p>
-      <p>🛡️ Security Systems</p>
-      <p>⚡ Performance</p>
-    </td>
-    <td width="25%" align="center">
-      <h3>🎨 Frontend Magic</h3>
-      <p>⚛️ React Apps</p>
-      <p>📱 Responsive Design</p>
-      <p>🎯 UI/UX</p>
-      <p>🔷 Modern JavaScript</p>
-      <p>🎭 Animations</p>
-    </td>
-    <td width="25%" align="center">
-      <h3>🚀 DevOps Fireworks</h3>
-      <p>🐳 Docker</p>
-      <p>☁️ AWS</p>
-      <p>⚡ CI/CD</p>
-      <p>🚀 Deployment</p>
-      <p>🤖 n8n Automation</p>
-    </td>
-    <td width="25%" align="center">
-      <h3>💡 Innovation</h3>
-      <p>🧠 Problem Solving</p>
-      <p>🚀 Scalability</p>
-      <p>🎨 Creative Solutions</p>
-      <p>⚡ Fast Learning</p>
-      <p>🌟 Quality Code</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-## 🎯 **Current Projects & Adventures**
-
-<div align="center">
-
-<!-- Animated Projects Grid -->
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🔥 Building Now</h3>
-      <p>⚡ Scalable E-commerce APIs</p>
-      <p>🎯 React Dashboard Systems</p>
-      <p>🔐 Secure Auth Systems</p>
-      <p>🤖 Automation Tools</p>
-      <p>🌐 Real-time Applications</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🌱 Learning Next</h3>
-      <p>⚛️ Advanced React Patterns</p>
-      <p>☁️ AWS Advanced Services</p>
-      <p>🔧 Microservices Architecture</p>
-      <p>🎨 Three.js & WebGL</p>
-      <p>🤖 Machine Learning</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-</div>
-
-<br/>
-
 ## 🏆 **GitHub Trophies & Achievements**
 
 <div align="center">
@@ -207,18 +134,14 @@
 
 <br/>
 
-<div align="center">
-
 ### **🌟 Additional Trophy Collection**
+
+<div align="center">
 
 <!-- Multiple trophy rows for maximum coverage -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=adelana107&theme=matrix&no-frame=true&row=3&column=9&margin-w=2&margin-h=8)
 
-</div>
-
 <br/>
-
-<div align="center">
 
 ### **🏅 Extended Achievement Set**
 
@@ -279,10 +202,11 @@ pie title Trophy Distribution
 
 </div>
 
-
-<div align="center">
+<br/>
 
 ### **🏅 Additional Achievements & Milestones**
+
+<div align="center">
 
 <!-- Custom Achievement Badges -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
@@ -334,18 +258,18 @@ graph LR
   <tr>
     <td align="center">
       <b>🏅</b><br/>
-      <h4>50+ Projects</h4>
-      <small>Completed</small>
+      <h4>50+</h4>
+      <small>Projects Completed</small>
     </td>
     <td align="center">
       <b>⭐</b><br/>
-      <h4>10K+ Lines</h4>
-      <small>Code Written</small>
+      <h4>10K+</h4>
+      <small>Lines of Code</small>
     </td>
     <td align="center">
       <b>🚀</b><br/>
-      <h4>25+ Techs</h4>
-      <small>Mastered</small>
+      <h4>25+</h4>
+      <small>Technologies Mastered</small>
     </td>
     <td align="center">
       <b>🎯</b><br/>
@@ -357,6 +281,8 @@ graph LR
 
 </div>
 
+<br/>
+
 <div align="center">
 
 <!-- Animated Divider -->
@@ -364,98 +290,47 @@ graph LR
 
 </div>
 
-<br/>
-
-## 💫 **Let's Create Magic Together!**
+## 🎭 **What I Bring to the Party**
 
 <div align="center">
 
-<!-- Animated Contact Buttons -->
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0;">
-  <a href="mailto:Adelana787898@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://linkedin.com/in/adelana-oluwafunmibi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://github.com/adelana107">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://adelana107.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" />
-  </a>
-</div>
-
-</div>
-
-<br/>
-
-## 🎪 **Fun Stats & Random Facts**
-
-<div align="center">
-
-<!-- Animated Stats Grid -->
+<!-- Animated Skills Grid -->
 <table>
   <tr>
-    <td align="center">
-      <b>10,000+</b><br/>🚀 Lines of Code
+    <td width="25%" align="center">
+      <h3>🎪 Backend Circus</h3>
+      <p>🔄 RESTful APIs</p>
+      <p>🗄️ Database Design</p>
+      <p>🔐 Authentication</p>
+      <p>🛡️ Security Systems</p>
+      <p>⚡ Performance</p>
     </td>
-    <td align="center">
-      <b>50+</b><br/>🎯 Projects Built
+    <td width="25%" align="center">
+      <h3>🎨 Frontend Magic</h3>
+      <p>⚛️ React Apps</p>
+      <p>📱 Responsive Design</p>
+      <p>🎯 UI/UX</p>
+      <p>🔷 Modern JavaScript</p>
+      <p>🎭 Animations</p>
     </td>
-    <td align="center">
-      <b>25+</b><br/>⚡ Technologies
+    <td width="25%" align="center">
+      <h3>🚀 DevOps Fireworks</h3>
+      <p>🐳 Docker</p>
+      <p>☁️ AWS</p>
+      <p>⚡ CI/CD</p>
+      <p>🚀 Deployment</p>
+      <p>🤖 n8n Automation</p>
     </td>
-    <td align="center">
-      <b>∞</b><br/>☕ Coffee Cups
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>100%</b><br/>🎨 Creative
-    </td>
-    <td align="center">
-      <b>24/7</b><br/>💻 Code Mode
-    </td>
-    <td align="center">
-      <b>🚀</b><br/>Fast Learner
-    </td>
-    <td align="center">
-      <b>🔥</b><br/>Problem Solver
+    <td width="25%" align="center">
+      <h3>💡 Innovation</h3>
+      <p>🧠 Problem Solving</p>
+      <p>🚀 Scalability</p>
+      <p>🎨 Creative Solutions</p>
+      <p>⚡ Fast Learning</p>
+      <p>🌟 Quality Code</p>
     </td>
   </tr>
 </table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-</div>
-
-<br/>
-
-## 🎊 **Daily Coding Rhythm**
-
-<div align="center">
-
-<!-- Fixed Timeline -->
-```mermaid
-graph LR
-    A[☕ Morning<br/>Planning & Learning] --> B[🚀 Afternoon<br/>Building & Coding]
-    B --> C[🌙 Evening<br/>Debugging & Testing]
-    C --> D[💡 Night<br/>Innovation & Research]
-    D --> A
-    
-    style A fill:#7E3ACE,color:#fff
-    style B fill:#00FFFF,color:#000
-    style C fill:#FF00FF,color:#fff
-    style D fill:#FFFF00,color:#000
-```
 
 </div>
 
@@ -499,14 +374,42 @@ graph LR
 
 <br/>
 
+## 🎯 **Current Projects & Adventures**
+
+<div align="center">
+
+<!-- Animated Projects Grid -->
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🔥 Building Now</h3>
+      <p>⚡ Scalable E-commerce APIs</p>
+      <p>🎯 React Dashboard Systems</p>
+      <p>🔐 Secure Auth Systems</p>
+      <p>🤖 Automation Tools</p>
+      <p>🌐 Real-time Applications</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🌱 Learning Next</h3>
+      <p>⚛️ Advanced React Patterns</p>
+      <p>☁️ AWS Advanced Services</p>
+      <p>🔧 Microservices Architecture</p>
+      <p>🎨 Three.js & WebGL</p>
+      <p>🤖 Machine Learning</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
 <div align="center">
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 </div>
-
-<br/>
 
 ## 📈 **Live Coding Activity**
 
@@ -564,18 +467,29 @@ RESEARCH & LEARNING ███ 10%
 
 <br/>
 
+## 🎊 **Daily Coding Rhythm**
+
 <div align="center">
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<!-- Fixed Timeline -->
+```mermaid
+graph LR
+    A[☕ Morning<br/>Planning & Learning] --> B[🚀 Afternoon<br/>Building & Coding]
+    B --> C[🌙 Evening<br/>Debugging & Testing]
+    C --> D[💡 Night<br/>Innovation & Research]
+    D --> A
+    
+    style A fill:#7E3ACE,color:#fff
+    style B fill:#00FFFF,color:#000
+    style C fill:#FF00FF,color:#fff
+    style D fill:#FFFF00,color:#000
+```
 
 </div>
 
 <br/>
 
 # 🎨 Tech Journey Timeline
-
-Here's your updated timeline with the correct starting year:
 
 <div align="center">
 
@@ -591,6 +505,109 @@ timeline
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+</div>
+
+## 🎪 **Fun Stats & Random Facts**
+
+<div align="center">
+
+<!-- Animated Stats Grid -->
+<table>
+  <tr>
+    <td align="center">
+      <b>10,000+</b><br/>🚀 Lines of Code
+    </td>
+    <td align="center">
+      <b>50+</b><br/>🎯 Projects Built
+    </td>
+    <td align="center">
+      <b>25+</b><br/>⚡ Technologies
+    </td>
+    <td align="center">
+      <b>∞</b><br/>☕ Coffee Cups
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>100%</b><br/>🎨 Creative
+    </td>
+    <td align="center">
+      <b>24/7</b><br/>💻 Code Mode
+    </td>
+    <td align="center">
+      <b>🚀</b><br/>Fast Learner
+    </td>
+    <td align="center">
+      <b>🔥</b><br/>Problem Solver
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+</div>
+
+## 🔥 **Recent Achievements**
+
+<div align="center">
+
+<!-- Achievement Badges -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-7E3ACE?style=for-the-badge&logo=fullstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Specialist-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/DevOps-Enthusiast-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI/UX-Designer-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+</div>
+
+## 💫 **Let's Create Magic Together!**
+
+<div align="center">
+
+<!-- Animated Contact Buttons -->
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0;">
+  <a href="mailto:Adelana787898@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://linkedin.com/in/adelana-oluwafunmibi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://github.com/adelana107">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://adelana107.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" />
+  </a>
+</div>
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -618,29 +635,17 @@ timeline
   <img src="https://img.shields.io/badge/Let's%20Collaborate-🤝-blue?style=for-the-badge&logo=handshake" />
 </div>
 
-</div>
-
-## 🔥 **Recent Achievements**
-
-<div align="center">
-
-<!-- Achievement Badges -->
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-7E3ACE?style=for-the-badge&logo=fullstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-Specialist-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/DevOps-Enthusiast-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI/UX-Designer-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
-
-</div>
-
 <br/>
-
-<div align="center">
 
 <!-- Final Animated Message -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Monospace&size=20&center=true&vCenter=true&width=600&duration=6000&lines=Thanks+for+visiting!+🎉;Let's+build+something+amazing+together!+🚀;Feel+free+to+reach+out+for+collaboration!+🤝&color=7E3ACE&repeat=true" />
 
 </div>
 
+---
+
+<div align="center">
+
+**⭐ Don't forget to star my repositories if you find them interesting! ⭐**
+
+</div>
