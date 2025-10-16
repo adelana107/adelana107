@@ -213,12 +213,89 @@
 
 <div align="center">
 
-<!-- Enhanced Trophies -->
-![trophy](https://github-profile-trophy.vercel.app/?username=adelana107&theme=radical&no-frame=true&row=3&column=6&margin-w=15&margin-h=15&rank=SECRET&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A)
+<!-- Enhanced Trophies with more achievements -->
+![trophy](https://github-profile-trophy.vercel.app/?username=adelana107&theme=radical&no-frame=true&row=4&column=7&margin-w=10&margin-h=15&rank=SECRET&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A)
 
 </div>
 
 <br/>
+
+<div align="center">
+
+### **🏅 Additional Achievements & Milestones**
+
+<!-- Custom Achievement Badges -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/🚀_Rising_Star-2024-7E3ACE?style=for-the-badge&logo=stars" />
+  <img src="https://img.shields.io/badge/💻_Full_Stack_Master-Expert-00FFFF?style=for-the-badge&logo=fullstack" />
+  <img src="https://img.shields.io/badge/🐍_Python_Pro-Advanced-3776AB?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/⚛️_React_Ninja-Specialist-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/🎯_Problem_Solver-100%25-FF6B6B?style=for-the-badge&logo=lightbulb" />
+  <img src="https://img.shields.io/badge/🚀_Fast_Learner-Prodigy-FFD93D?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/📱_UI/UX_Designer-Creator-6B5B95?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/☁️_Cloud_Enthusiast-AWS-FF9900?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/🐳_Docker_Master-Containerized-2496ED?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/📊_API_Architect-RESTful-4ECDC4?style=for-the-badge&logo=api" />
+  <img src="https://img.shields.io/badge/🤖_Automation_Expert-n8n-FF6C37?style=for-the-badge&logo=robot" />
+  <img src="https://img.shields.io/badge/🎨_Code_Artist-Creative-FF00FF?style=for-the-badge&logo=paintbrush" />
+</div>
+
+</div>
+
+<br/>
+
+### **⭐ Achievement Progress**
+<div align="center">
+
+```mermaid
+graph LR
+    A[🌱 Beginner] --> B[🚀 Intermediate]
+    B --> C[💪 Advanced]
+    C --> D[🏆 Expert]
+    D --> E[👑 Master]
+    E --> F[🌟 Legend]
+    
+    style A fill:#4ECDC4,color:#000
+    style B fill:#45B7D1,color:#000
+    style C fill:#96CEB4,color:#000
+    style D fill:#FECA57,color:#000
+    style E fill:#FF9FF3,color:#000
+    style F fill:#7E3ACE,color:#fff
+```
+
+</div>
+
+<br/>
+
+### **📈 Milestone Timeline**
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <b>🏅</b><br/>
+      <h4>50+ Projects</h4>
+      <small>Completed</small>
+    </td>
+    <td align="center">
+      <b>⭐</b><br/>
+      <h4>10K+ Lines</h4>
+      <small>Code Written</small>
+    </td>
+    <td align="center">
+      <b>🚀</b><br/>
+      <h4>25+ Techs</h4>
+      <small>Mastered</small>
+    </td>
+    <td align="center">
+      <b>🎯</b><br/>
+      <h4>100%</h4>
+      <small>Success Rate</small>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <div align="center">
 
