@@ -200,12 +200,85 @@
 
 <div align="center">
 
-<!-- Enhanced Trophies with more achievements -->
-![trophy](https://github-profile-trophy.vercel.app/?username=adelana107&theme=radical&no-frame=true&row=4&column=7&margin-w=10&margin-h=15&rank=SECRET&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A)
+<!-- Enhanced Trophies with maximum achievements -->
+![trophy](https://github-profile-trophy.vercel.app/?username=adelana107&theme=radical&no-frame=true&row=6&column=8&margin-w=5&margin-h=10&rank=SECRET&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A&rank=B&rank=C)
 
 </div>
 
 <br/>
+
+<div align="center">
+
+### **🌟 Additional Trophy Collection**
+
+<!-- Multiple trophy rows for maximum coverage -->
+![trophy](https://github-profile-trophy.vercel.app/?username=adelana107&theme=matrix&no-frame=true&row=3&column=9&margin-w=2&margin-h=8)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### **🏅 Extended Achievement Set**
+
+<!-- Third set of trophies -->
+![trophy](https://github-profile-trophy.vercel.app/?username=adelana107&theme=gruvbox&no-frame=true&row=4&column=8&margin-w=4&margin-h=12)
+
+</div>
+
+<br/>
+
+### **🎯 Achievement Categories**
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <b>📊</b><br/>
+      <h4>Stats Trophies</h4>
+      <small>Stars, Commits, PRs</small>
+    </td>
+    <td align="center">
+      <b>💻</b><br/>
+      <h4>Tech Trophies</h4>
+      <small>Languages, Frameworks</small>
+    </td>
+    <td align="center">
+      <b>🚀</b><br/>
+      <h4>Growth Trophies</h4>
+      <small>Followers, Repositories</small>
+    </td>
+    <td align="center">
+      <b>🎨</b><br/>
+      <h4>Style Trophies</h4>
+      <small>Themes, Layouts</small>
+    </td>
+    <td align="center">
+      <b>🏆</b><br/>
+      <h4>Special Trophies</h4>
+      <small>Secret Achievements</small>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+### **⭐ Trophy Progress Overview**
+<div align="center">
+
+```mermaid
+pie title Trophy Distribution
+    "Gold Trophies" : 25
+    "Silver Trophies" : 35
+    "Bronze Trophies" : 40
+    "Special Trophies" : 15
+```
+
+</div>
+
 
 <div align="center">
 
