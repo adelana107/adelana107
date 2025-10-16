@@ -603,7 +603,7 @@ timeline
 
 <div align="center">
 
-🌟 "Turning imagination into code and challenges into elegant designs — one brilliant commit at a time!"
+##🌟 **"Turning imagination into code and challenges into elegant designs — one brilliant commit at a time!"**
 
 </div>
 
