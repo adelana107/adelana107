@@ -28,10 +28,7 @@
 <h2 align="center">⚡ Full Stack Developer • Python & Django Specialist • React Artist ⚡</h2>
 
 <p align="center">
-  Passionate full-stack developer with expertise in building scalable web applications. 
-  I love turning complex problems into simple, beautiful, and intuitive solutions. 
-  When I'm not coding, you'll find me exploring new technologies, contributing to open source, 
-  or enjoying a good cup of coffee while brainstorming my next project.
+ Passionate full-stack developer from Nigeria, focused on building scalable and user-friendly web applications. I enjoy turning complex problems into simple, elegant solutions. When I’m not coding, I’m exploring new technologies, contributing to open-source projects, or brainstorming ideas for my next build.
 </p>
 
 <br/>
