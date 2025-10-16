@@ -359,16 +359,22 @@ graph LR
 
 <br/>
 
-## 📈 **Live Coding Activity**
-
-<div align="center">
-
-<!-- Fixed Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adelana107&theme=react-dark&area=true&hide_border=true&custom_title=My%20Coding%20Activity&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&area_color=7E3ACE" width="100%"/>
-
-</div>
-
-<br/>
+📈 Live Coding Activity
+<div align="center"><!-- Coding Activity Visualization -->
+graph LR
+    A[💻 Morning Coding] --> B[🚀 Active Development]
+    B --> C[🐛 Debugging Session]
+    C --> D[📚 Learning New Tech]
+    D --> E[⚡ Building Features]
+    E --> F[🌙 Evening Projects]
+    F --> A
+    
+    style A fill:#7E3ACE,color:#fff
+    style B fill:#00FFFF,color:#000
+    style C fill:#FF6B6B,color:#fff
+    style D fill:#4ECDC4,color:#000
+    style E fill:#FFD93D,color:#000
+    style F fill:#6B5B95,color:#fff
 
 ## 🎨 **Tech Journey Timeline**
 
