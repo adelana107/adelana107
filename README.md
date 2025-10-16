@@ -573,15 +573,16 @@ RESEARCH & LEARNING ███ 10%
 
 <br/>
 
-## 🎨 **Tech Journey Timeline**
+# 🎨 Tech Journey Timeline
+
+Here's your updated timeline with the correct starting year:
 
 <div align="center">
 
-<!-- Fixed Timeline for 2024 Start -->
 ```mermaid
 timeline
     title My Tech Journey
-    2024 : Started Coding Journey
+    2023 : Started Coding Journey
     2024 : Python & Django Mastery
     2024 : React & Frontend Development
     2024 : Full Stack Projects
@@ -590,7 +591,6 @@ timeline
 
 </div>
 
-<br/>
 
 <div align="center">
 
