@@ -134,23 +134,9 @@
 
 <br/>
 
-### **🌟 Additional Trophy Collection**
 
-<div align="center">
 
-<!-- Multiple trophy rows for maximum coverage -->
-![trophy](https://github-profile-trophy.vercel.app/?username=adelana107&theme=matrix&no-frame=true&row=3&column=9&margin-w=2&margin-h=8)
 
-<br/>
-
-### **🏅 Extended Achievement Set**
-
-<!-- Third set of trophies -->
-![trophy](https://github-profile-trophy.vercel.app/?username=adelana107&theme=gruvbox&no-frame=true&row=4&column=8&margin-w=4&margin-h=12)
-
-</div>
-
-<br/>
 
 ### **🎯 Achievement Categories**
 <div align="center">
