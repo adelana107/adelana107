@@ -9,11 +9,11 @@
 
 <div align="center">
 
-<!-- Animated Badges -->
+<!-- Fixed Badges -->
 <div>
-  <img src="https://komarev.com/ghpvc/?username=adelana107&color=ff00ff&style=for-the-badge&label=VISITORS✨" />
-  <img src="https://img.shields.io/github/followers/adelana107?color=00ffff&style=for-the-badge&label=FOLLOWERS🌟" />
-  <img src="https://img.shields.io/github/stars/adelana107?color=ffd700&style=for-the-badge&label=STARS⭐" />
+  <img src="https://komarev.com/ghpvc/?username=adelana107&color=ff00ff&style=for-the-badge&label=VISITORS" />
+  <img src="https://img.shields.io/github/followers/adelana107?color=00ffff&style=for-the-badge&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/adelana107?color=ffd700&style=for-the-badge&label=STARS" />
 </div>
 
 </div>
@@ -44,7 +44,7 @@
 
 ### **🌈 Backend Magic**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Django%20REST-FF1700?style=for-the-badge&logo=django&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000" />
@@ -98,18 +98,18 @@
 <table>
   <tr>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=adelana107&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFFFFF&ring_color=7E3ACE&animate=true"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=adelana107&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFFFFF&ring_color=7E3ACE"/>
     </td>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelana107&layout=compact&langs_count=8&theme=radical&border_radius=15&bg_color=0D1117&title_color=7E3ACE&text_color=FFFFFF&animate=true"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelana107&layout=compact&langs_count=8&theme=radical&border_radius=15&bg_color=0D1117&title_color=7E3ACE&text_color=FFFFFF"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- Animated Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adelana107&theme=react-dark&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Coding%20Activity%20🔥&animate=true" width="100%"/>
+<!-- Fixed Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adelana107&theme=react-dark&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -213,8 +213,8 @@
 
 <div align="center">
 
-<!-- Animated Trophies -->
-![trophy](https://github-profile-trophy.vercel.app/?username=adelana107&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&rank=-?&rank=-C&rank=-B&rank=-A&rank=S&rank=SS&rank=SSS)
+<!-- Enhanced Trophies -->
+![trophy](https://github-profile-trophy.vercel.app/?username=adelana107&theme=radical&no-frame=true&row=3&column=6&margin-w=15&margin-h=15&rank=SECRET&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A)
 
 </div>
 
@@ -236,7 +236,7 @@
 <!-- Animated Contact Buttons -->
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0;">
   <a href="mailto:Adelana787898@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&logoWidth=20" />
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://linkedin.com/in/adelana-oluwafunmibi">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
@@ -264,7 +264,7 @@
       <b>10,000+</b><br/>🚀 Lines of Code
     </td>
     <td align="center">
-      <b>50+</b><br/>🎯 APIs Built
+      <b>50+</b><br/>🎯 Projects Built
     </td>
     <td align="center">
       <b>25+</b><br/>⚡ Technologies
@@ -306,12 +306,12 @@
 
 <div align="center">
 
-<!-- Animated Code Block -->
+<!-- Fixed Timeline -->
 ```mermaid
 graph LR
-    A[☕ Morning] --> B[🚀 Afternoon]
-    B --> C[🌙 Evening]
-    C --> D[💡 Night]
+    A[☕ Morning<br/>Planning & Learning] --> B[🚀 Afternoon<br/>Building & Coding]
+    B --> C[🌙 Evening<br/>Debugging & Testing]
+    C --> D[💡 Night<br/>Innovation & Research]
     D --> A
     
     style A fill:#7E3ACE,color:#fff
@@ -375,8 +375,8 @@ graph LR
 
 <div align="center">
 
-<!-- Animated Activity Graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=adelana107&theme=react-dark&area=true&hide_border=true&custom_title=My%2520Coding%2520Activity%2520🔥&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&area_color=7E3ACE" width="100%"/>
+<!-- Fixed Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adelana107&theme=react-dark&area=true&hide_border=true&custom_title=My%20Coding%20Activity&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&area_color=7E3ACE" width="100%"/>
 
 </div>
 
@@ -386,15 +386,15 @@ graph LR
 
 <div align="center">
 
-<!-- Animated Timeline -->
+<!-- Fixed Timeline for 2024 Start -->
 ```mermaid
 timeline
     title My Tech Journey
-    2020 : Python & Django
-    2021 : React & JavaScript
-    2022 : DevOps & AWS
-    2023 : Full Stack Mastery
-    2024 : AI & ML Exploration
+    2024 : Started Coding Journey
+    2024 : Python & Django Mastery
+    2024 : React & Frontend Development
+    2024 : Full Stack Projects
+    2024 : DevOps & Deployment
 ```
 
 </div>
@@ -433,14 +433,14 @@ timeline
 
 <div align="center">
 
-<!-- Animated Mini Stats -->
+<!-- Fixed Mini Stats -->
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adelana107&theme=radical&border_radius=10&custom_title=Weekly%20Coding%20Time" />
+      <img src="https://github-readme-stats.vercel.app/api?username=adelana107&show_icons=true&theme=radical&count_private=true&border_radius=10&custom_title=Weekly%20Progress" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=adelana107&repo=adelana107&theme=radical&border_radius=10" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelana107&layout=compact&theme=radical&border_radius=10&custom_title=Top%20Languages" />
     </td>
   </tr>
 </table>
@@ -453,5 +453,57 @@ timeline
 
 <!-- Final Animated Message -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Monospace&size=20&center=true&vCenter=true&width=600&duration=6000&lines=Thanks+for+visiting!+🎉;Let's+build+something+amazing+together!+🚀;Feel+free+to+reach+out+for+collaboration!+🤝&color=7E3ACE&repeat=true" />
+
+</div>
+
+## 🔥 **Recent Achievements**
+
+<div align="center">
+
+<!-- Achievement Badges -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-7E3ACE?style=for-the-badge&logo=fullstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Specialist-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/DevOps-Enthusiast-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI/UX-Designer-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+</div>
+
+## 🎪 **Coding Personality**
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <h4>💡 Problem Solver</h4>
+      <p>Creative solutions for complex challenges</p>
+    </td>
+    <td align="center">
+      <h4>🚀 Fast Learner</h4>
+      <p>Quickly adapt to new technologies</p>
+    </td>
+    <td align="center">
+      <h4>🎨 Detail Oriented</h4>
+      <p>Pixel-perfect implementation</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>🤝 Team Player</h4>
+      <p>Great collaborator and communicator</p>
+    </td>
+    <td align="center">
+      <h4>⚡ Efficient Coder</h4>
+      <p>Clean, maintainable code</p>
+    </td>
+    <td align="center">
+      <h4>🔥 Passionate</h4>
+      <p>Love what I do every day</p>
+    </td>
+  </tr>
+</table>
 
 </div>
