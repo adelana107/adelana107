@@ -125,13 +125,13 @@
 ## 🏆 **GitHub Trophies & Achievements**
 
 <div align="center">
-<div>
+
 
 <!-- Enhanced Trophies with maximum achievements -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=adelana107&theme=radical&no-frame=true&row=6&column=8&margin-w=5&margin-h=10&rank=SECRET&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A&rank=B&rank=C)
 
 </div>
-</div>
+
 
 <br/>
 
