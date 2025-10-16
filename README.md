@@ -128,7 +128,7 @@
 
 
 <!-- Enhanced Trophies with maximum achievements -->
- ![trophy](https://github-profile-trophy.vercel.app/?username=adelana107&theme=radical&no-frame=true&row=1&column=9)
+ ![trophy](https://github-profile-trophy.vercel.app/?username=adelana107&theme=radical&no-frame=true&row=1&column=8)
 
 </div>
 
