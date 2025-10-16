@@ -90,23 +90,10 @@
 
 <br/>
 
-## 📊 **GitHub Analytics & Magic Metrics**
-
-<div align="center">
-
-<!-- Animated Stats Grid -->
-<table>
-  <tr>
-    <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=adelana107&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFFFFF&ring_color=7E3ACE"/>
-    </td>
-    <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelana107&layout=compact&langs_count=8&theme=radical&border_radius=15&bg_color=0D1117&title_color=7E3ACE&text_color=FFFFFF"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
+📊 GitHub Analytics & Magic Metrics
+<div align="center"><!-- Animated Stats Grid --><table> <tr> <td> <img height="200em" src="https://github-readme-stats.vercel.app/api?username=adelana107&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFFFFF&ring_color=7E3ACE&animate=true"/> </td> <td> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelana107&layout=compact&langs_count=8&theme=radical&border_radius=15&bg_color=0D1117&title_color=7E3ACE&text_color=FFFFFF&animate=true"/> </td> </tr> </table>
+<!-- Animated Activity Graph --><img src="https://github-readme-activity-graph.vercel.app/graph?username=adelana107&theme=react-dark&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Coding%20Activity%20🔥&animate=true" width="100%"/></div>
+<div align="center"><!-- Animated Divider --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 
 <!-- Fixed Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adelana107&theme=react-dark&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&area=true&hide_border=true" width="100%"/>
