@@ -1,4 +1,4 @@
-# 🚀 **Adelana Oluwafunmibi** - Full Stack Developer Extraordinaire 🎨.
+# 🚀 **Adelana Oluwafunmibi** - Full Stack Developer Extraordinaire 🎨
 
 <div align="center">
 
