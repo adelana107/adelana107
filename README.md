@@ -310,43 +310,13 @@ graph LR
 
 <br/>
 
-## 🌟 **Featured Projects Showcase**
+## 🚀 Featured Projects
 
-<div align="center">
-
-<!-- Animated Project Cards -->
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>🎯 E-commerce API</h3>
-      <p>Django REST + React</p>
-      <p>Scalable & Secure</p>
-      <p>Real-time Features</p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-🚀_Live-brightgreen?style=for-the-badge" />
-    </td>
-    <td width="33%" align="center">
-      <h3>🚀 Dashboard System</h3>
-      <p>React + TypeScript</p>
-      <p>Responsive Design</p>
-      <p>Advanced Charts</p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-⚡_Developing-orange?style=for-the-badge" />
-    </td>
-    <td width="33%" align="center">
-      <h3>🤖 Automation Tool</h3>
-      <p>Python + n8n</p>
-      <p>Workflow Automation</p>
-      <p>Custom Integrations</p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-🔧_Building-blue?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **E-Commerce Platform** | Full-stack e-commerce site with cart, checkout, and user auth. | Django, React, PostgreSQL, Redis | [![GitHub](https://img.shields.io/badge/🔗_Repo-000?style=flat&logo=github)](https://github.com/adelana107/ecommerce) [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00a86b?style=flat)](https://your-demo-link.vercel.app) |
+| **Task Management Dashboard** | A responsive dashboard with drag-and-drop functionality and real-time updates. | React, TypeScript, Tailwind CSS, Node.js | [![GitHub](https://img.shields.io/badge/🔗_Repo-000?style=flat&logo=github)](https://github.com/adelana107/dashboard) [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00a86b?style=flat)](https://your-demo-link.netlify.app) |
+| **REST API Microservice** | A scalable microservice for handling user data with JWT authentication. | Python, FastAPI, Docker, AWS | [![GitHub](https://img.shields.io/badge/🔗_Repo-000?style=flat&logo=github)](https://github.com/adelana107/api-service) |
 
 ## 🎯 **Current Projects & Adventures**
 
