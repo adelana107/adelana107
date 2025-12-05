@@ -620,6 +620,6 @@ timeline
 
 <div align="center">
 
-**⭐ Don't forget to star my repositories if you find them interesting! ⭐**
+**⭐ Don't forget to star my repositories if you find them interesting!.. ⭐**
 
 </div>
