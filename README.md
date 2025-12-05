@@ -45,15 +45,16 @@ it was rubbish # 🚀**Adelana Oluwafunmibi** - Full Stack Developer Extraordina
 <table>
   <tr>
     <td>
-      <img height="200em" 
-        src="https://github-readme-stats-git-masterorg.vercel.app/api?username=adelana107&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+      <img height="200em"
+        src="https://github-readme-stats-one-bice.vercel.app/api?username=adelana107&show_icons=true&theme=radical" />
     </td>
     <td>
-      <img height="200em" 
-        src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=adelana107&layout=compact&langs_count=8&theme=radical" />
+      <img height="200em"
+        src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=adelana107&layout=compact&theme=radical" />
     </td>
   </tr>
 </table>
+
 
 
 <br/>
