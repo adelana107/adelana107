@@ -41,18 +41,20 @@ it was rubbish # 🚀**Adelana Oluwafunmibi** - Full Stack Developer Extraordina
 ![GitHub Streak](https://streak-stats.demolab.com?user=adelana107&theme=radical&border_radius=15&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&ring=7E3ACE)
 
 <br/>
-
 <!-- Stats Grid -->
-<table> 
-  <tr> 
+<table>
+  <tr>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=adelana107&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFFFFF&ring_color=7E3ACE&animate=true"/> 
-    </td> 
-    <td> 
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelana107&layout=compact&langs_count=8&theme=radical&border_radius=15&bg_color=0D1117&title_color=7E3ACE&text_color=FFFFFF&animate=true"/> 
-    </td> 
-  </tr> 
+      <img height="200em" 
+        src="https://github-readme-stats-git-masterorg.vercel.app/api?username=adelana107&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img height="200em" 
+        src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=adelana107&layout=compact&langs_count=8&theme=radical" />
+    </td>
+  </tr>
 </table>
+
 
 <br/>
 
