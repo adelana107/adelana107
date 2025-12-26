@@ -245,61 +245,7 @@
 
 </div>
 
-## 📈 **Live Coding Activity**
 
-<div align="center">
-
-### **🔥 Current Development Heatmap**
-```
-Week 45 - November 2024
-Mon Tue Wed Thu Fri Sat Sun
-░░  ░░  ▒▒  ▒▒  ▓▓  ▓▓  ▓▓   ██ High Activity
-░░  ▒▒  ▒▒  ▓▓  ▓▓  ██  ██   ▓▓ Medium Activity  
-▒▒  ▒▒  ▓▓  ██  ██  ██  ▓▓   ▒▒ Low Activity
-▓▓  ██  ██  ██  ▓▓  ▒▒  ░░   ░░ No Activity
-```
-
-<br/>
-
-### **⚡ Real-time Development Metrics**
-<table>
-  <tr>
-    <td align="center">
-      <b>📝</b><br/>
-      <h3>15+</h3>
-      <small>Commits This Week</small>
-    </td>
-    <td align="center">
-      <b>🎯</b><br/>
-      <h3>8</h3>
-      <small>Active PRs</small>
-    </td>
-    <td align="center">
-      <b>🚀</b><br/>
-      <h3>3</h3>
-      <small>Projects Live</small>
-    </td>
-    <td align="center">
-      <b>⚡</b><br/>
-      <h3>12h</h3>
-      <small>Dev Time Today</small>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### **📊 Weekly Focus Distribution**
-```
-BACKEND DEVELOPMENT ██████████ 40%
-FRONTEND MAGIC     █████████ 35%  
-DEVOPS & TOOLS     █████ 15%
-RESEARCH & LEARNING ███ 10%
-```
-
-</div>
-
-<br/>
 
 ## 🎊 **Daily Coding Rhythm**
 
