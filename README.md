@@ -134,41 +134,6 @@
 
 
 
-
-
-### **🎯 Achievement Categories**
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <b>📊</b><br/>
-      <h4>Stats Trophies</h4>
-      <small>Stars, Commits, PRs</small>
-    </td>
-    <td align="center">
-      <b>💻</b><br/>
-      <h4>Tech Trophies</h4>
-      <small>Languages, Frameworks</small>
-    </td>
-    <td align="center">
-      <b>🚀</b><br/>
-      <h4>Growth Trophies</h4>
-      <small>Followers, Repositories</small>
-    </td>
-    <td align="center">
-      <b>🎨</b><br/>
-      <h4>Style Trophies</h4>
-      <small>Themes, Layouts</small>
-    </td>
-    <td align="center">
-      <b>🏆</b><br/>
-      <h4>Special Trophies</h4>
-      <small>Secret Achievements</small>
-    </td>
-  </tr>
-</table>
-
 </div>
 
 <br/>
