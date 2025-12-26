@@ -176,7 +176,6 @@
       <h3>🎨 Frontend Magic</h3>
       <p>⚛️ React Apps</p>
       <p>📱 Responsive Design</p>
-      <p>🎯 UI/UX</p>
       <p>🔷 Modern JavaScript</p>
       <p>🎭 Animations</p>
     </td>
@@ -228,7 +227,6 @@
       <p>☁️ AWS Advanced Services</p>
       <p>🔧 Microservices Architecture</p>
       <p>🎨 Three.js & WebGL</p>
-      <p>🤖 Machine Learning</p>
     </td>
   </tr>
 </table>
