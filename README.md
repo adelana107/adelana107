@@ -137,7 +137,6 @@
   <img src="https://img.shields.io/badge/⚛️_React_Ninja-Specialist-61DAFB?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/🎯_Problem_Solver-100%25-FF6B6B?style=for-the-badge&logo=lightbulb" />
   <img src="https://img.shields.io/badge/🚀_Fast_Learner-Prodigy-FFD93D?style=for-the-badge&logo=rocket" />
-  <img src="https://img.shields.io/badge/📱_UI/UX_Designer-Creator-6B5B95?style=for-the-badge&logo=figma" />
   <img src="https://img.shields.io/badge/☁️_Cloud_Enthusiast-AWS-FF9900?style=for-the-badge&logo=amazonaws" />
   <img src="https://img.shields.io/badge/🐳_Docker_Master-Containerized-2496ED?style=for-the-badge&logo=docker" />
   <img src="https://img.shields.io/badge/📊_API_Architect-RESTful-4ECDC4?style=for-the-badge&logo=api" />
