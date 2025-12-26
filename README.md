@@ -205,67 +205,6 @@
 
 <br/>
 
-### **⭐ Achievement Progress**
-<div align="center">
-
-```mermaid
-graph LR
-    A[🌱 Beginner] --> B[🚀 Intermediate]
-    B --> C[💪 Advanced]
-    C --> D[🏆 Expert]
-    D --> E[👑 Master]
-    E --> F[🌟 Legend]
-    
-    style A fill:#4ECDC4,color:#000
-    style B fill:#45B7D1,color:#000
-    style C fill:#96CEB4,color:#000
-    style D fill:#FECA57,color:#000
-    style E fill:#FF9FF3,color:#000
-    style F fill:#7E3ACE,color:#fff
-```
-
-</div>
-
-<br/>
-
-### **📈 Milestone Timeline**
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <b>🏅</b><br/>
-      <h4>50+</h4>
-      <small>Projects Completed</small>
-    </td>
-    <td align="center">
-      <b>⭐</b><br/>
-      <h4>10K+</h4>
-      <small>Lines of Code</small>
-    </td>
-    <td align="center">
-      <b>🚀</b><br/>
-      <h4>25+</h4>
-      <small>Technologies Mastered</small>
-    </td>
-    <td align="center">
-      <b>🎯</b><br/>
-      <h4>100%</h4>
-      <small>Success Rate</small>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-</div>
 
 ## 🎭 **What I Bring to the Party**
 
