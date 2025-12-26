@@ -204,40 +204,6 @@
 
 <br/>
 
-## 🌟 **Featured Projects Showcase**
-
-<div align="center">
-
-<!-- Animated Project Cards -->
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>🎯 E-commerce API</h3>
-      <p>Django REST + React</p>
-      <p>Scalable & Secure</p>
-      <p>Real-time Features</p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-🚀_Live-brightgreen?style=for-the-badge" />
-    </td>
-    <td width="33%" align="center">
-      <h3>🚀 Dashboard System</h3>
-      <p>React + TypeScript</p>
-      <p>Responsive Design</p>
-      <p>Advanced Charts</p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-⚡_Developing-orange?style=for-the-badge" />
-    </td>
-    <td width="33%" align="center">
-      <h3>🤖 Automation Tool</h3>
-      <p>Python + n8n</p>
-      <p>Workflow Automation</p>
-      <p>Custom Integrations</p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-🔧_Building-blue?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
-
 </div>
 
 <br/>
