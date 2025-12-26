@@ -1,7 +1,9 @@
+# 🚀**Adelana Oluwafunmibi** - Full Stack Developer Extraordinaire 🎨
+
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adelana+Oluwafunmibi!;Full+Stack+Developer;Python+%26+Django+Expert;React+Artist;&color=7E3ACE&repeat=true" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adelana+Oluwafunmibi!;Full+Stack+Developer;Python+%26+Django+Expert;React+Artist;UI/UX+Enthusiast&color=7E3ACE&repeat=true" />
 
 <br/>
 
@@ -57,7 +59,8 @@
 
 <br/>
 
-
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adelana107&theme=react-dark&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
