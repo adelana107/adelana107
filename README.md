@@ -307,7 +307,6 @@
   <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-Specialist-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/DevOps-Enthusiast-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI/UX-Designer-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 </div>
