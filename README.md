@@ -1,5 +1,3 @@
-#**Adelana Oluwafunmibi** - Full Stack Developer
-
 <div align="center">
 
 <!-- Animated Header -->
