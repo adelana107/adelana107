@@ -226,14 +226,12 @@
       <p>⚛️ Advanced React Patterns</p>
       <p>☁️ AWS Advanced Services</p>
       <p>🔧 Microservices Architecture</p>
-      <p>🎨 Three.js & WebGL</p>
     </td>
   </tr>
 </table>
 
 </div>
 
-<br/>
 
 <div align="center">
 
@@ -249,8 +247,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 </div>
-
-\
 
 <div align="center">
 
