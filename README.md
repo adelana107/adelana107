@@ -59,9 +59,6 @@
 
 <br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adelana107&theme=react-dark&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
 </div>
 
 <br/>
