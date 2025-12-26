@@ -1,4 +1,4 @@
-**Adelana Oluwafunmibi** - Full Stack Developer
+#**Adelana Oluwafunmibi** - Full Stack Developer
 
 <div align="center">
 
