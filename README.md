@@ -250,45 +250,7 @@
 
 </div>
 
-## 🎪 **Fun Stats & Random Facts**
-
-<div align="center">
-
-<!-- Animated Stats Grid -->
-<table>
-  <tr>
-    <td align="center">
-      <b>10,000+</b><br/>🚀 Lines of Code
-    </td>
-    <td align="center">
-      <b>50+</b><br/>🎯 Projects Built
-    </td>
-    <td align="center">
-      <b>25+</b><br/>⚡ Technologies
-    </td>
-    <td align="center">
-      <b>∞</b><br/>☕ Coffee Cups
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>100%</b><br/>🎨 Creative
-    </td>
-    <td align="center">
-      <b>24/7</b><br/>💻 Code Mode
-    </td>
-    <td align="center">
-      <b>🚀</b><br/>Fast Learner
-    </td>
-    <td align="center">
-      <b>🔥</b><br/>Problem Solver
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
+\
 
 <div align="center">
 
