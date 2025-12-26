@@ -246,47 +246,6 @@
 </div>
 
 
-
-## 🎊 **Daily Coding Rhythm**
-
-<div align="center">
-
-<!-- Fixed Timeline -->
-```mermaid
-graph LR
-    A[☕ Morning<br/>Planning & Learning] --> B[🚀 Afternoon<br/>Building & Coding]
-    B --> C[🌙 Evening<br/>Debugging & Testing]
-    C --> D[💡 Night<br/>Innovation & Research]
-    D --> A
-    
-    style A fill:#7E3ACE,color:#fff
-    style B fill:#00FFFF,color:#000
-    style C fill:#FF00FF,color:#fff
-    style D fill:#FFFF00,color:#000
-```
-
-</div>
-
-<br/>
-
-# 🎨 Tech Journey Timeline
-
-<div align="center">
-
-```mermaid
-timeline
-    title My Tech Journey
-    2023 : Started Coding Journey
-    2024 : Python & Django Mastery
-    2024 : React & Frontend Development
-    2024 : Full Stack Projects
-    2024 : DevOps & Deployment
-```
-
-</div>
-
-<br/>
-
 <div align="center">
 
 <!-- Animated Divider -->
